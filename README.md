@@ -1,5 +1,7 @@
 
 ![image](https://github.com/user-attachments/assets/72784915-0c34-40fd-af52-ff259e358083)
+
+
 This project expands the classic Chrome Dino game by incorporating Object-Oriented
 Programming (OOP) principles in Java. New features include flying bird obstacles, shield
 power-ups, coin collection, and persistent high score tracking.
